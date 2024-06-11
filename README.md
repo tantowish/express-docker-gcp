@@ -1,9 +1,5 @@
 # Random Chuck Norris Jokes
 
-**Tutorial**: [How to Deploy Node.js Applications with Docker](https://betterstack.com/community/guides/scaling-nodejs/dockerize-nodejs/).
-
-![Screenshot or GIF of the application in action](screenshot.png)
-
 ## 🟢 Prerequisites
 
 You must have Node.js and `npm` installed on your machine. This project was
@@ -17,7 +13,7 @@ built against the following versions:
 - Clone this repo to your machine:
 
 ```shell
-git clone https://github.com/betterstack-community/chucknorris
+git clone https://github.com/tantowish/express-docker-gcp
 ```
 
 - `cd` into the project folder and run `npm install` to download dependencies.
